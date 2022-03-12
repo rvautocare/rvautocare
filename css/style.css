@@ -389,7 +389,7 @@ a:focus {
 }
 
 .carousel .carousel-text h3 {
-    color: var(--yellow);
+    color: white;
     font-size: 20px;
     font-weight: 700;
     letter-spacing: 4px;
@@ -398,7 +398,7 @@ a:focus {
 }
 
 .carousel .carousel-text h1 {
-    color: black;
+    color: var(--yellow);
     font-size: 60px;
     margin-bottom: 20px;
     text-transform: capitalize;
@@ -431,9 +431,11 @@ a:focus {
     justify-content: center;
     color: #ffffff;
     border-radius: 50px;
-    background: rgba(256, 256, 256, .2);
+    background: black;
     font-size: 22px;
     transition: .5s;
+    border: 1.5px;
+    border-color: yellow;
 }
 
 .carousel .owl-nav .owl-prev {
@@ -511,7 +513,7 @@ a:focus {
         height:100%;
     }
     .carousel .carousel-item .height{
-        height:450px;
+        height:55vh;
     }
     .carousel .carousel-text h3 {
         font-size: 14px;
@@ -641,8 +643,9 @@ a:focus {
 
 .about .about-img img {
     width: 100%;
-    border-radius: 5px;
+    border-radius: 10px;
     margin-bottom: 30px;
+    padding: 10%;
 }
 
 .about .about-content {
@@ -1078,6 +1081,18 @@ color: var(--black);
     padding: 45px 0 0 0;
 }
 
+.blog .blog-item{
+    border: 2px solid black;
+    box-shadow: 6px 8px 10px var(--yellow);
+    padding: 10px 5px;
+    border-radius: 10px;
+}
+
+.blog .blog-item:hover{
+    border: 2px solid var(--yellow);
+    box-shadow: 8px 10px 12px var(--yellow);
+}
+
 .blog .blog-item {
     margin-bottom: 45px;
 }
@@ -1087,9 +1102,8 @@ color: var(--black);
     width: 100%;
 }
 
-.blog .blog-img img {
+.blog .blog-img img{
     width: 100%;
-    border-radius: 5px;
 }
 
 .blog .meta-date {
