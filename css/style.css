@@ -1287,17 +1287,19 @@ color: var(--black);
 
 .contact .contact-form input {
     padding: 15px;
+    margin: 15px 0px;
     border-radius: 5px;
-    border: 1px solid white;
+    border: 1px solid black;
     background-color: transparent;
 }
 
 .contact .contact-form textarea {
     height: 125px;
+    margin: 15px 0px;
     padding: 8px 15px;
     border-radius: 5px;
     background-color: transparent;
-    border: 1px solid white;
+    border: 1px solid black;
 }
 .contact .btn.btn-custom{
     color:var(--yellow);
