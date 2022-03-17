@@ -188,13 +188,25 @@
                             <h3>Contact Form</h3>
                             <form action="https://submit-form.com/uIC4Gdei" method="post">
                                 <div class="control-group">
-                                    <input type="text" name="Name" class="form-control" placeholder="Name" required="required" />
+                                    <input type="text" name="Name" class="form-control" placeholder="Name" required />
                                 </div>
                                 <div class="control-group">
-                                    <input type="email" name= "Email" class="form-control" placeholder="Email" required="required" />
+                                    <input type="tel" name="Mobile-No" class="form-control" placeholder="Mobile-No" maxlength="10" required />
                                 </div>
                                 <div class="control-group">
-                                    <textarea class="form-control" name="Message" placeholder="Description" required="required"></textarea>
+                                    <input type="email" name= "Email" class="form-control" placeholder="Email"/>
+                                </div>
+                                <div class="control-group form-control" id="select-vehicles">
+                                    <label for="vehicles">Choose a vehicle:</label>
+                                    <select>
+                                    <option value="Value 1">Value 1</option>
+                                    <option value="Value 2">Value 2</option>
+                                    <option value="Value 3">Value 3</option>
+                                    <option value="Value 4">Value 4</option>
+                                </select>
+                                </div>
+                                <div class="control-group">
+                                    <textarea class="form-control" name="Message" placeholder="Description"></textarea>
                                 </div>
                                 <div>
                                     <button class="btn btn-custom" type="submit">Submit</button>
