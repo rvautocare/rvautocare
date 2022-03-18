@@ -161,6 +161,7 @@ a:focus {
     flex-wrap: nowrap;
 }
 .top-bar .logo{
+    height:100%;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -516,7 +517,7 @@ a:focus {
         height:100%;
     }
     .carousel .carousel-item .height{
-        height:65vh;
+        height:60vh;
     }
     .carousel .carousel-text h3 {
         font-size: 14px;
@@ -544,6 +545,7 @@ a:focus {
     width: fit-content;
     font-size: 30px;
     margin: 0 auto;
+    margin-top:12px;
     text-align: center;
     background-color: rgb(82, 79, 79);
     border-radius: 10px;
