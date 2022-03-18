@@ -187,6 +187,9 @@ a:focus {
     align-items: center;
     justify-content: center;
 }
+.top-bar .i1,.top-bar .i2,.top-bar .i3{
+    padding:0;
+}
 
 .fa-phone-alt:before,.fa-envelope:before,.fa-map-marker-alt:before{
     color:var(--yellow);
@@ -877,16 +880,19 @@ a:focus {
 
 .location .location-form .form-control {
     height: 45px;
-    color: #ffffff;
+    color: black;
     padding: 0 15px;
     border-radius: 5px;
-    border: 1px solid #ffffff;
+    border: 1px solid black;
     background: transparent;
 }
 
 .location .location-form #select-vehicles {
     align-items: center;
     padding-top: 10px;
+}
+.location .location-form select{
+    padding:2px 5px;
 }
 
 .location .location-form textarea.form-control {
@@ -1304,7 +1310,9 @@ color: var(--black);
     padding:15px;
     border-radius: 10px;
 }
-
+.contact .contact-form .form-control{
+    color:black;
+}
 .contact .contact-form h3{
     width: fit-content;
     margin:0px auto;
@@ -1313,13 +1321,16 @@ color: var(--black);
     padding:5px;
     border-radius: 5px;
 }
-
 .contact .contact-form input {
     padding: 15px;
     margin: 15px 0px;
     border-radius: 5px;
     border: 1px solid black;
     background-color: transparent;
+}
+.contact .contact-form .form-control::placeholder {
+    color: #ffffff;
+    opacity: 1;
 }
 
 .contact .contact-form #select-vehicles {
@@ -1380,15 +1391,13 @@ color: var(--black);
 
 .single .single-content img {
     margin-bottom: 20px;
-    height: 500px;
-    margin-left: 12px;
-    width: 750px;
+    width: 100%;
     border: 5px solid var(--yellow);
     border-radius: 10px;
 }
 
 .single .single-bio {
-    padding: 30px;
+    padding: 20px;
     background: var(--black);
     display: flex;
     align-items: center;
@@ -1398,17 +1407,12 @@ color: var(--black);
 }
 
 .single .single-bio-img {
-    width: 100%;
-    max-width: 115px;
-    padding: 15px;
-    background: #ffffff;
-    border-radius: 100px;
     margin-bottom: 20px;
 }
 
 .single .single-bio-img img {
     width: 100%;
-    border-radius: 100px;
+    border-radius: 50%;
 }
 
 .single .single-bio-text {
@@ -1504,6 +1508,7 @@ color: var(--black);
 
 .single .post-item .post-text a {
     font-size: 17px;
+    color:black;
     font-weight: 500;
 }
 
