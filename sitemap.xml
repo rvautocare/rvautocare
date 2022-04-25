@@ -15,7 +15,7 @@
 <url>
   <loc>https://rvautocare.com/index.html</loc>
   <lastmod>2022-03-31T19:45:06+00:00</lastmod>
-  <priority>0.80</priority>
+  <priority>1.00</priority>
 </url>
 <url>
   <loc>https://rvautocare.com/price.html</loc>
@@ -54,6 +54,11 @@
 </url>
 <url>
   <loc>https://rvautocare.com/contact.html</loc>
+  <lastmod>2022-03-31T19:45:06+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://rvautocare.com/blogpost-1.html</loc>
   <lastmod>2022-03-31T19:45:06+00:00</lastmod>
   <priority>0.80</priority>
 </url>
