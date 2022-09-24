@@ -9,67 +9,87 @@
 
 <url>
   <loc>https://rvautocare.com/</loc>
-  <lastmod>2022-03-31T19:45:06+00:00</lastmod>
+  <lastmod>2022-09-24T16:21:33+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://rvautocare.com/index.html</loc>
-  <lastmod>2022-03-31T19:45:06+00:00</lastmod>
-  <priority>1.00</priority>
+  <lastmod>2022-09-24T16:21:33+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://rvautocare.com/price.html</loc>
-  <lastmod>2022-03-31T19:45:06+00:00</lastmod>
+  <lastmod>2022-09-24T16:21:33+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://rvautocare.com/service.html</loc>
-  <lastmod>2022-03-31T19:45:06+00:00</lastmod>
+  <lastmod>2022-09-24T16:21:33+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://rvautocare.com/about.html</loc>
-  <lastmod>2022-03-31T19:45:06+00:00</lastmod>
+  <lastmod>2022-09-24T16:21:33+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://rvautocare.com/blog.html</loc>
-  <lastmod>2022-03-31T19:45:06+00:00</lastmod>
+  <lastmod>2022-09-24T16:21:33+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://rvautocare.com/faq.html</loc>
-  <lastmod>2022-03-31T19:45:06+00:00</lastmod>
+  <lastmod>2022-09-24T16:21:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://rvautocare.com/gallery.html</loc>
+  <lastmod>2022-09-24T16:21:33+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://rvautocare.com/team.html</loc>
-  <lastmod>2022-03-31T19:45:06+00:00</lastmod>
+  <lastmod>2022-09-24T16:21:33+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://rvautocare.com/booking.html</loc>
-  <lastmod>2022-03-31T19:45:06+00:00</lastmod>
+  <lastmod>2022-09-24T16:21:33+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://rvautocare.com/contact.html</loc>
-  <lastmod>2022-03-31T19:45:06+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://rvautocare.com/blogpost-1.html</loc>
-  <lastmod>2022-03-31T19:45:06+00:00</lastmod>
+  <lastmod>2022-09-24T16:21:33+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://rvautocare.com/blogpost-2.html</loc>
-  <lastmod>2022-03-31T19:45:06+00:00</lastmod>
+  <loc>https://rvautocare.com/blogs/Flatbed-towing-service.html</loc>
+  <lastmod>2022-09-24T16:21:33+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://rvautocare.com/./blogs/Tips-to-Maintain-your-car.html</loc>
-  <lastmod>2022-03-31T19:45:06+00:00</lastmod>
+  <loc>https://rvautocare.com/blogs/How-to-Wash-Your-Car.html</loc>
+  <lastmod>2022-09-24T16:21:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://rvautocare.com/blogs/Tips-to-Maintain-your-car.html</loc>
+  <lastmod>2022-09-24T16:21:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://rvautocare.com/location.html</loc>
+  <lastmod>2022-09-24T16:21:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://rvautocare.com/termsofuse.html</loc>
+  <lastmod>2022-09-24T16:21:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://rvautocare.com/privacypolicy.html</loc>
+  <lastmod>2022-09-24T16:21:33+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 
